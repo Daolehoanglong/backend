@@ -1,0 +1,27 @@
+[
+    {
+        " id": 1,
+        "name": "Women",
+        "img": "img/category-1.jpg"
+    },
+    {
+        " id": 2,
+        "name": "Man",
+         "img": "img/category-2.jpg"
+    },
+    {
+        " id": 3,
+        "name": "Kid",
+         "img": "img/category-3.jpg"
+    },
+    {
+        " id": 4,
+        "name": "Cosmetics",
+         "img": "img/category-4.jpg"
+    },
+    {
+        " id": 5,
+        "name": "Accessories",
+         "img": "img/category-5.jpg"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        " id": 1,
+        "name": "AoThun",
+        "img": "AothunCate.webp"
+    },
+    {
+        " id": 2,
+        "name": "AoDaiTay",
+         "img": "AodaitayCate.webp"
+    },
+    {
+        " id": 3,
+        "name": "AoPoLo",
+         "img": "AopoloCCate.webp"
+    }
+]

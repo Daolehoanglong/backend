@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "sản phẩm 1",
+        "categoryID": 1,
+        "price": 102000,
+        "description": "mo ta 1",
+        "img": "img/product-1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "sản phẩm 2",
+        "categoryID": 1,
+        "price": 130000,
+        "description": "mo ta 2",
+        "img": "img/product-2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "sản phẩm 3",
+        "categoryID": 2,
+        "price": 104000,
+        "description": "mo ta 3",
+        "img": "img/product-3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "sản phẩm 4",
+        "categoryID": 3,
+        "price": 200000,
+        "description": "mo ta 4",
+        "img": "img/product-4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "sản phẩm 5",
+        "categoryID": 4,
+        "price": 104600,
+        "description": "mo ta 5",
+        "img": "img/product-5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "sản phẩm 6",
+        "categoryID": 4,
+        "price": 340600,
+        "description": "mo ta 6",
+        "img": "img/product-6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "sản phẩm 7",
+        "categoryID": 5,
+        "price": 102500,
+        "description": "mo ta 7",
+        "img": "img/product-7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "sản phẩm 8",
+        "categoryID": 5,
+        "price": 198000,
+        "description": "mo ta 8",
+        "img": "img/product-8.jpg"
+    }
+]

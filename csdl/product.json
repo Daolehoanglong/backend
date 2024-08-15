@@ -1,0 +1,306 @@
+[
+    {
+        "id": 1,
+        "name": "Áo thun chạy bộ Advanced Vent Tech",
+        "price": 189.000,
+        "description": "Công nghệ Exdry, thấm hút và nhanh khô.Vải Mesh thân thoáng khí.Polyester bền nhẹ.Kiểu dệt MINI SQUARE (ô vuông) 2 mặt giúp hạn chế xước sợi bề mặt vải.",
+        "categoryID": 1,
+        "stock": 50,
+        "img": [
+            "aothun1.webp",
+            "aothun1_1.webp",
+            "aothun1_2.webp",
+            "aothun1_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 2,
+        "name": "Áo Thun Chạy Bộ Graphic Jungle",
+        "price": 179.000,
+        "description": "Chất liệu vải với ưu điểm co giãn tốt, nhẹ tênh trong từng bước chạy và thấm hút mồ hôi hiệu quả, Áo thun nam Chạy Bộ Graphic Jungle được đánh giá phù hợp với hoạt động chạy bộ bởi các Runner.",
+        "categoryID": 1,
+        "stock": 50,
+        "img": [
+            "aothun2.webp",
+            "aothun2_1.webp",
+            "aothun2_2.webp",
+            "aothun2_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 3,
+        "name": "Áo thun chạy bộ không đường may CoolFast",
+        "price": 339.000,
+        "description": "Thành phần: 100% Polyester.Công nghệ đặc biệt Taped (Không đường may) mang lại trải nghiệm mỏng nhẹ, thoải mái tuyệt đối.Khả năng thấm hút nhanh chóng và thoát ra ngoài giúp cho người mặc có cảm giác luôn khô thoáng khi vận động.",
+        "categoryID": 1,
+        "stock": 50,
+        "img": [
+            "aothun3.webp",
+            "aothun3_1.webp",
+            "aothun3_2.webp",
+            "aothun3_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 4,
+        "name": "Áo Thun Nam Thể Thao Coolmate Basics",
+        "price": 99.000,
+        "description": "Chất liệu: 51% sợi Poly Recycle + 49% Poly,Xử lý hoàn thiện vải: Quick-Dry và Wicking,Phù hợp với các hoạt động thể thao",
+        "categoryID": 1,
+        "stock": 50,
+        "img": [
+            "aothun4.webp",
+            "aothun4_1.webp",
+            "aothun4_2.webp",
+            "aothun4_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 5,
+        "name": "Áo thun thể thao Pro Active 1595",
+        "price": 152.000,
+        "description": "Chất liệu 100% Recycled Polyester,Vải dệt Knit Interlock,Công nghệ ExDry thấm hút tốt, nhanh khô, thoáng khí,Vải co giãn thoải mái,Form áo slimfit, ôm vừa tôn dáng",
+        "categoryID": 1,
+        "stock": 50,
+        "img": [
+            "aothun5.webp",
+            "aothun5_1.webp",
+            "aothun5_2.webp",
+            "aothun5_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 6,
+        "name": "Áo Thể Thao dài tay Active V2",
+        "price": 129.000,
+        "description": "Chất liệu 100% Recycle Polyester,Tính năng Wicking thấm hút vượt trội, Công nghệ Ex-Dry nhanh khô thoáng mát,Vải co giãn và nhanh khô, thoải mái cho mọi vận động, Form áo: Slim fit, ôm vừa",
+        "categoryID": 2,
+        "stock": 50,
+        "img": [
+            "aodaitay1.webp",
+            "aodaitay1_1.webp",
+            "aodaitay1_2.webp",
+            "aodaitay1_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 7,
+        "name": "Áo dài tay Cotton Compact V2",
+        "price": 215.000,
+        "description": "Áo dài tay Cotton Compact V2 của nhà Coolmate sẽ là lựa chọn tuyệt vời cho chàng thích phong cách basic hoặc tối giản. Với thiết kế đơn giản nhưng không kém phần trẻ trung, thời thượng, đây sẽ là mẫu áo nam mà chàng cần có trong tủ quần áo. ",
+        "categoryID": 2,
+        "stock": 50,
+        "img": [
+            "aodaitay2.webp",
+            "aodaitay2_1.webp",
+            "aodaitay2_2.webp",
+            "aodaitay2_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 8,
+        "name": "Áo Nỉ chui đầu Essentials",
+        "price": 339.000,
+        "description": "Áo nỉ chui đầu Essentials là thiết kế dễ phối đồ được nhiều bạn nam yêu thích lựa chọn trong mùa thu đông. Sản phẩm của Coolmate sử dụng chất liệu vải nỉ chân cua định lượng 360gsm cao cấp dày dặn, giữ nhiệt tốt, không nhăn, bai nhão hay xù lông trong quá trình mặc.",
+        "categoryID": 2,
+        "stock": 50,
+        "img": [
+            "aodaitay2.webp",
+            "aodaitay2_1.webp",
+            "aodaitay2_2.webp",
+            "aodaitay2_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 9,
+        "name": "Áo Polo Nam dài tay Essentials",
+        "price": 259.000,
+        "description": "Áo Polo Nam dài tay Essentials của Coolmate được sử dụng chất liệu cotton cao cấp, mang đến cảm giác mềm mại và thoáng mát cho nam giới. Đây thực sự là sản phẩm thích hợp để mặc mọi mùa trong năm mà chàng trai nào cũng cần có trong tủ.",
+        "categoryID": 2,
+        "stock": 50,
+        "img": [
+            "aodaitay4.webp",
+            "aodaitay4_1.webp",
+            "aodaitay4_2.webp",
+            "aodaitay4_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 10,
+        "name": "Áo Dài Tay Thể Thao Essentials",
+        "price": 259.000,
+        "description": "Áo Thể Thao Essentials Coolmate sử dụng kiểu dệt mắt cáo tạo ra các khoảng trống nhỏ li ti trong cấu trúc vải, hỗ trợ tăng cường lưu thông khí, mang đến cho bạn cảm giác thoáng mát hơn khi sử dụng",
+        "categoryID": 2,
+        "stock": 50,
+        "img": [
+            "aodaitay5.webp",
+            "aodaitay5_1.webp",
+            "aodaitay5_2.webp",
+            "aodaitay5_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    },
+    {
+        "id": 11,
+        "name": "Áo Polo Thể Thao Pro Active 1595",
+        "price": 215.000,
+        "description": "Chất liệu 100% Recycled Polyester, kiểu dệt Knit Interlock co giãn thoải mái,Công nghệ ExDry thấm hút tốt, nhanh khô, thoáng khí,Form áo vừa vặn, tôn dáng",
+        "categoryID": 3,
+        "stock": 50,
+        "img": [
+            "aopolo1.webp",
+            "aopolo1_1.webp",
+            "aopolo1_2.webp",
+            "aopolo1_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    }
+    ,
+    {
+        "id": 12,
+        "name": "Áo Polo Thể Thao Pro Active 1595 Phối Màu",
+        "price": 224.000,
+        "description": "Chất liệu 100% Recycled Polyester, kiểu dệt Knit Interlock co giãn thoải mái,Công nghệ ExDry thấm hút tốt, nhanh khô, thoáng khí,Form áo vừa vặn, tôn dáng",
+        "categoryID": 3,
+        "stock": 50,
+        "img": [
+            "aopolo2.webp",
+            "aopolo2_1.webp",
+            "aopolo2_2.webp",
+            "aopolo2_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    }
+    ,
+    {
+        "id": 13,
+        "name": "Áo Polo Nam Cafe",
+        "price": 296.000,
+        "description": "Áo polo nam Cafe khử mùi, kháng khuẩn là mẫu áo polo đầu tiên được phát triển từ vải sợi công nghệ tái tạo từ bã cà phê và chai nhựa. Đây là một trong những sản phẩm hướng tới thời trang bền vững tại Coolmate. ",
+        "categoryID": 3,
+        "stock": 50,
+        "img": [
+            "aopolo3.webp",
+            "aopolo3_1.webp",
+            "aopolo3_2.webp",
+            "aopolo3_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    }
+    ,
+    {
+        "id": 14,
+        "name": "Áo Polo Nam phối Jeans",
+        "price": 359.000,
+        "description": "Áo polo nam phối jeans với thiết kế hiện đại, chất liệu co giãn là sản phẩm tiêu biểu trong BST hợp tác giữa thương hiệu Coolmate và Copper Denim. Đây chắc chắn là người bạn đồng hành tuyệt vời cho các chàng trai trong quá trình định hình gu thời trang đầy phong cách.",
+        "categoryID": 3,
+        "stock": 50,
+        "img": [
+            "aopolo4.webp",
+            "aopolo4_1.webp",
+            "aopolo4_2.webp",
+            "aopolo4_3.webp"
+        ],
+        "sold": 123,
+        "hot": 0,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    }
+    ,
+    {
+        "id": 15,
+        "name": "Áo Polo Nam Pique Cotton USA",
+        "price": 249.000,
+        "description": "Áo polo nam Pique Cotton USA thấm hút tốt xứng đáng trở thành một trong những sản phẩm bán chạy nhất tại Coolmate.",
+        "categoryID": 3,
+        "stock": 50,
+        "img": [
+            "aopolo5.webp",
+            "aopolo5_1.webp",
+            "aopolo5_2.webp",
+            "aopolo5_3.webp"
+        ],
+        "sold": 123,
+        "hot": 1,
+        "quantity": 1,
+        "view": 456,
+        "createdAt": "2024-07-14T12:00:00Z",
+        "updatedAt": "2024-07-14T12:00:00Z"
+    }
+]
