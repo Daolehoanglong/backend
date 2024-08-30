@@ -1,44 +1,28 @@
 var jwt = require('jsonwebtoken');
 
 require("dotenv").config()
-const CreateJWT = () => {
-    let payload = { name: "long", Address: "TP Ho Chi Minh" }
-    let key = process.env.JWT_SECRET
-    let token = null
-    try {
-        let token = jwt.sign(payload, key);
-        console.log("token", token);
-    } catch (err) {
-        console.log(err);
+const CreateJWT = (payload) => {
+    return jwt.sign(payload, process.env.JWT_SECRET, { expiresIn: process.env.JWT_EXPIRES_IN });
+}
+const verifyToken = (req, res, next) => {
+    const token = req.headers['authorization'];
+    if (!token) {
+        return res.status(403).json({ message: "No token provided" });
     }
-    return token
-}
 
-const verifyToken = (token) => {
-    let key = process.env.JWT_SECRET
-    let data = null
-    // decode tức là toke đã mã hóa
-    jwt.verify(token, key, function (err, decoded) {
+    jwt.verify(token, process.env.JWT_SECRET, (err, decoded) => {
         if (err) {
-            console.log(err);
-            return data
-            /*
-              err = {
-                name: 'TokenExpiredError',
-                message: 'jwt expired',
-                expiredAt: 1408621000
-              }
-            */
+            return res.status(401).json({ message: "Unauthorized" });
         }
-        console.log(decoded);
-        
-        return decoded
+        req.userId = decoded.id; // Lưu thông tin người dùng vào req
+        next();
     });
-}
+};
+
 
 
 
 
 module.exports = {
-    CreateJWT,verifyToken
+    CreateJWT, verifyToken
 }

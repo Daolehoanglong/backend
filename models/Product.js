@@ -25,10 +25,13 @@ const productSchema = new mongoose.Schema({
         type: Number,
         required: true
     },
-    image: {
-        type: String,
+    img: {
+        type: [String],
         required: true,
-        trim: true
+    },
+    hot: {
+        type: Number,
+        required: true,
     }
 }, {
     timestamps: true 
